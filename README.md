@@ -1,5 +1,5 @@
-Current trends Social Media IS30320
-
+##Current trends Social Media IS30320
+================================
 David Hatch
 
 Student Number: 11517977
@@ -10,6 +10,6 @@ For our first lab exercise, we were asked to create our own network graph. This 
 
 In summary Network analysis and visualisation makes finding important features of networks easier in my opinion. NodeXL within the readings was very easy to use and help me through this precess of making this graph. My graph helps show that my network is hugely linked together. I hope this helped explain and give an insight into what particular tools and processes were used to achieve a clear and readable graph.
 
-Bibliography:
+#####Bibliography:
 
 Hansen, D. L., Shneiderman, B., & Smith, M. A. (2011). Analyzing social media networks with NodeXL: Insights from a connected world. Amsterdam: Elsevier, Morgan Kaufmann.
